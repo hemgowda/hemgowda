@@ -1,13 +1,19 @@
 ![logo](https://github.com/hemgowda/hemgowda/blob/main/1744.gif?raw=true)
 <h1 align="center">Hi 👋, I'm Hemanthakumar J N</h1>
-<h3 align="center">A passionate Data Engineer from India</h3>
+<h3 align="center">A passionate Data Engineer from Bangalore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemgowda&label=Profile%20views&color=0e75b6&style=flat" alt="hemgowda" /> </p>
 
+- 🔭 I’m currently working in **🏢 Carelon Global Solution**
+- 👯  I’m looking to collaborate on **AI, ML and Could works**
+- 🌱 I’m currently pursuing 👨🏻‍🎓🎓 **M.S 🏫@MIT in Data-Science💻**
 - 📫 How to reach me **hemanthgunduraj77@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/linkedin.com/in/hemanth-kumar-j-n-4b9049217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/hemanth-kumar-j-n-4b9049217" height="30" width="40" /></a>
+<a href="https://instagram.com/hemz___gowda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hemz___gowda" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hemanthakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hemanthakumar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

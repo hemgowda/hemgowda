@@ -1,4 +1,4 @@
-![logo](https://github.com/hemgowda/Hemanthakumar_J_N/blob/main/1744.gif)
+![logo]
 <h1 align="center">Hi 👋, I'm Hemanthakumar J N</h1>
 <h3 align="center">A passionate Data Engineer from India</h3>
 
